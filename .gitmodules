@@ -1,0 +1,39 @@
+[submodule "saa/materials/AWS_EXAM_PREP"]
+	path = saa/materials/AWS_EXAM_PREP
+	url = https://github.com/rongyj/AWS_EXAM_PREP.git
+[submodule "saa/materials/aws-sa-associate-saac02"]
+	path = saa/materials/aws-sa-associate-saac02
+	url = https://github.com/rongyj/aws-sa-associate-saac02.git
+[submodule "saa/materials/aws-saa-exam-study-materials"]
+	path = saa/materials/aws-saa-exam-study-materials
+	url = https://github.com/rongyj/aws-saa-exam-study-materials.git
+[submodule "saa/materials/awesome-aws-certifications"]
+	path = saa/materials/awesome-aws-certifications
+	url = https://github.com/rongyj/awesome-aws-certifications.git
+[submodule "saa/materials/aws-saa-handbook"]
+	path = saa/materials/aws-saa-handbook
+	url = https://github.com/rongyj/aws-saa-handbook.git
+[submodule "saa/materials/aws-study-notes"]
+	path = saa/materials/aws-study-notes
+	url = https://github.com/rongyj/aws-study-notes.git
+[submodule "saa/materials/AWS-certs"]
+	path = saa/materials/AWS-certs
+	url = https://github.com/rongyj/AWS-certs.git
+[submodule "saa/materials/aws-solutions-architect-associate-certificate"]
+	path = saa/materials/aws-solutions-architect-associate-certificate
+	url = https://github.com/rongyj/aws-solutions-architect-associate-certificate.git
+[submodule "saa/materials/aws-training"]
+	path = saa/materials/aws-training
+	url = https://github.com/rongyj/aws-training.git
+[submodule "saa/materials/AWS-CSA-Notes-2018"]
+	path = saa/materials/AWS-CSA-Notes-2018
+	url = https://github.com/rongyj/AWS-CSA-Notes-2018.git
+[submodule "saa/materials/aws-certification-exam-notes"]
+	path = saa/materials/aws-certification-exam-notes
+	url = https://github.com/rongyj/aws-certification-exam-notes.git
+[submodule "saa/materials/aws-certification-developer-associate"]
+	path = saa/materials/aws-certification-developer-associate
+	url = https://github.com/rongyj/aws-certification-developer-associate.git
+[submodule "saa/materials/aws-mindmap"]
+	path = saa/materials/aws-mindmap
+	url = https://github.com/rongyj/aws-mindmap.git
